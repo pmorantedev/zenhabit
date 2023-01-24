@@ -10,6 +10,7 @@ A continuació pots veure el nostre vídeo promocional i captures de l'aplicaci�
 
 <br>
 <h2><img src="https://i.postimg.cc/pr4yk0rS/2-You-Tube-full-color-icon-2017-svg.png"> &nbsp;Vídeo promocional</h2>
+<a href="https://youtu.be/ZgSt3exhF1o"><img src="https://i.ibb.co/ygstsT6/You-Tube-Preview.jpg" width=100%></a>
 
 <br>
 <h2><img src="https://i.postimg.cc/L8whz4hV/31375106.png"> &nbsp;Captures de pantalla</h2>
